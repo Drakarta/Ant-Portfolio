@@ -8,7 +8,6 @@ export const metadata: Metadata = {
     default: "Home",
   },
   description: "Anthony's Portfolio Website",
-  
 }
 
 export default function RootLayout({
